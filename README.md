@@ -14,3 +14,8 @@
    3. Elemento 3
 
    [conversor](https://codebeautify.org/markdown-to-html)
+
+   | Tabla 1 | Tabla 2 | Tabla 3 |
+   | ------- | ------- | ------- |
+   | Dato 1  | Dato 2  | Dato 3  |
+   
